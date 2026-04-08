@@ -1,19 +1,17 @@
-# FeatureEngineering_Capstone
-Hotel booking cancellation prediction project
-# Feature Engineering Capstone
+# Feature Engineering for Hotel Booking Cancellation Prediction
 
 ## Objective
-Predict hotel booking cancellations using machine learning.
+To predict hotel booking cancellations using machine learning and demonstrate the importance of feature engineering.
 
-## Tasks Completed
-- Baseline model
-- Curse of dimensionality
-- Numeric preprocessing
-- Distance-based models
-- Pipeline creation
-- Feature extraction
-- Feature construction
-- Feature selection
+## Tasks Performed
+- Baseline Model
+- Curse of Dimensionality
+- Numeric Preprocessing
+- Distance Metrics (KNN)
+- Pipeline Creation
+- Feature Extraction
+- Feature Construction
+- Feature Selection
 
 ## Tools Used
 - Python
@@ -23,7 +21,7 @@ Predict hotel booking cancellations using machine learning.
 - Matplotlib
 
 ## Results
-Feature engineering significantly improved model performance.
+Feature engineering significantly improved model performance compared to the baseline.
 
 ## How to Run
 Open the notebook in Google Colab and run all cells.
